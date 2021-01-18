@@ -1,9 +1,15 @@
 # How to eat Pytorch in 20 days ?🔥🔥
 
+<!-- #region -->
+**《10天吃掉那只pyspark》**
+* 🚀 github项目地址: https://github.com/lyhue1991/eat_pyspark_in_10_days
+* 🐳 和鲸专栏地址: https://www.kesci.com/home/column/5fe6aa955e24ed00302304e0 【代码可直接fork后云端运行，无需配置环境】
+
 
 **《20天吃掉那只Pytorch》**
 * 🚀 github项目地址: https://github.com/lyhue1991/eat_pytorch_in_20_days
 * 🐳 和鲸专栏地址: https://www.kesci.com/home/column/5f2ac5d8af3980002cb1bc08 【代码可直接fork后云端运行，无需配置环境】
+
 
 **《30天吃掉那只TensorFlow2》**
 * 🚀 github项目地址: https://github.com/lyhue1991/eat_tensorflow2_in_30_days
@@ -18,7 +24,7 @@
 **如果是学生或者研究人员，应该优先选择Pytorch.**
 
 **如果时间足够，最好TensorFlow2和Pytorch都要学习掌握。**
-
+<!-- #endregion -->
 
 理由如下：
 
@@ -140,7 +146,6 @@
 
 **2，学习环境**
 
-
 本书全部源码在jupyter中编写测试通过，建议通过git克隆到本地，并在jupyter中交互式运行学习。
 
 为了直接能够在jupyter中打开markdown文件，建议安装jupytext，将markdown转换成ipynb文件。
@@ -183,11 +188,11 @@ torch version: 1.5.0
 
 **如果本书对你有所帮助，想鼓励一下作者，记得给本项目加一颗星星star⭐️，并分享给你的朋友们喔😊!** 
 
-如果对本书内容理解上有需要进一步和作者交流的地方，欢迎在公众号"Python与算法之美"下留言。作者时间和精力有限，会酌情予以回复。
+如果对本书内容理解上有需要进一步和作者交流的地方，欢迎在公众号"算法美食屋"下留言。作者时间和精力有限，会酌情予以回复。
 
 也可以在公众号后台回复关键字：**加群**，加入读者交流群和大家讨论。
 
-![image.png](./data/Python与算法之美logo.jpg)
+![算法美食屋logo.png](./data/算法美食屋二维码.jpg)
 
 ```python
 
